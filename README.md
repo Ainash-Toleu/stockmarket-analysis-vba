@@ -22,4 +22,4 @@
 
 The solution looks as follows:
 
-![2014Data](2014Data_ToleuA_HW.png)
+![2014Data](Images/2014Data_ToleuA_HW.png)
